@@ -1,4 +1,4 @@
-![](publicmarket1.jpg)
+publicmarket1.JPG
 
 ## Datos de Seattle, WA
 
