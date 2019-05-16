@@ -2,7 +2,7 @@
 
 ## Datos de Seattle, WA
 
-* El primer europeo en visitar la zona, que había estado habitada por tribus nativas durante más de 4.000 años, fue un hombre llamado Vancouver. Ese es George Vancouver, el famoso explorador británico, quien se detuvo en 1792 durante su viaje para recorrer la costa del Pacífico de América del Norte.\\
+* El primer europeo en visitar la zona, que había estado habitada por tribus nativas durante más de 4.000 años, fue un hombre llamado Vancouver. Ese es George Vancouver, el famoso explorador británico, quien se detuvo en 1792 durante su viaje para recorrer la costa del Pacífico de América del Norte.
 
 ![sodostation](https://user-images.githubusercontent.com/50153006/57828536-c9afca80-7779-11e9-890a-899e16ae0c10.JPG)
 
